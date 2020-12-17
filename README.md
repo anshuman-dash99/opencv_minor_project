@@ -1,0 +1,1 @@
+# opencv_minor_project
